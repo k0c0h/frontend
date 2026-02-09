@@ -1,0 +1,28 @@
+body {
+  background: linear-gradient(135deg, #f8cdda, #cdb4db);
+  min-height: 100vh;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+.btn-purple {
+  background-color: #9b5de5;
+  color: white;
+}
+
+.btn-purple:hover {
+  background-color: #7b3fe4;
+  color: white;
+}
+
+.table thead {
+  background-color: #f15bb5;
+  color: white;
+}
+
+.title {
+  color: #7209b7;
+  font-weight: bold;
+}
