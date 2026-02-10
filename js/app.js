@@ -2,7 +2,7 @@ let products = [];
 
 // URLs backend (Render o Local)
 const PRODUCTS_API =
-  "https://backend-products.onrender.com/products"||
+  "https://backend-products-bqwp.onrender.com/products"||
  "http://localhost:3008/products";
 
 const EXPIRATION_API =
